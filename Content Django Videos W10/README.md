@@ -29,6 +29,11 @@ Section 6: Models, Migrations & Admin
 
 
 Section 7: View Methods, Display & Search
+- Pagination
+- Pagination Bootstrap
+- Humanize
+- Page 404 Funny
+
 
 Section 8: Accounts & Authentication
 
