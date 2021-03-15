@@ -33,6 +33,7 @@ Section 7: View Methods, Display & Search
 - Pagination Bootstrap
 - Humanize
 - Page 404 Funny
+- https://gist.github.com/MrAch26/62872759572953caca2b877b26a2a907
 
 
 Section 8: Accounts & Authentication
