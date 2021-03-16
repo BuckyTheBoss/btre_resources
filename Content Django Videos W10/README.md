@@ -42,5 +42,6 @@ Section 8: Accounts & Authentication
 
 Section 9: Contact Inquiries
 - to regsiter all apps : https://gist.github.com/MrAch26/b851b009d9c098476737f90ffd28d239
+- Send email django
 
 Section 10: Django Deployment
