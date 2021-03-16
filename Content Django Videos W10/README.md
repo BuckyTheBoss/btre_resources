@@ -41,5 +41,6 @@ Section 8: Accounts & Authentication
 - Gist Alert : https://gist.github.com/MrAch26/c1964f1992903f398f9d4364ca1afef4
 
 Section 9: Contact Inquiries
+- to regsiter all apps : https://gist.github.com/MrAch26/b851b009d9c098476737f90ffd28d239
 
 Section 10: Django Deployment
